@@ -2,7 +2,6 @@
 
 ## Clicky-Game
 
-In the project directory, you can run:
 
 ### Techonology: ReactJS, Material-UI, NodeJS
 
